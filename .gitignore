@@ -16,4 +16,4 @@ __pycache__/
 *.csv
 
 # Gambar hasil analisis
-*.png
+#*.png
