@@ -1,0 +1,19 @@
+# Abaikan virtual environment
+.venv/
+venv/
+env/
+
+# File konfigurasi editor
+.vscode/
+
+# File Python cache
+__pycache__/
+*.pyc
+
+# File model dan dataset
+*.pkl
+*.h5
+*.csv
+
+# Gambar hasil analisis
+*.png
